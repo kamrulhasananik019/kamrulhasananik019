@@ -1,9 +1,9 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://sami.miralamin.info/)
-<h1 align="center">Hi 👋, I'm Faizul Islam Sami</h1>
+<h1 align="center">Hi 👋, I'm Kamrul Hasan Anik</h1>
 <h3 align="center">An enthusiastic frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
-- 👨‍💻 All of my projects are available at [https://sami.miralamin.info/](https://sami.miralamin.info/)
+- 👨‍💻 All of my projects are available at [https://kamrulhasananik01.web.app/](https://kamrulhasananik01.web.app/)
 
 - 💬 Ask me about **TypeScript, React, Express.js, MongoDB, Node.js and any JavaScript framework or library.**
 
@@ -15,9 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/faizul sami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizul sami" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:22523079" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:22523079" height="30" width="40" /></a>
-<a href="https://fb.com/faizul sami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faizul sami" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kamrulhasananik019/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamrul hasan anik" height="30" width="40" /></a>
+<a href="https://www.facebook.com/kamrulhasananik019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamrul hasan anik" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/9FTyeQqUAF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9FTyeQqUAF" height="30" width="40" /></a>
 </p>
 
