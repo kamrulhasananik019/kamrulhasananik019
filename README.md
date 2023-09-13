@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **TypeScript, React, Express.js, MongoDB, Node.js and any JavaScript framework or library.**
 
-- 📫 How to reach me **faizul.sami2000@gmail.com**
+- 📫 How to reach me **kamrulhasananik019@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1H0VnkK1m11RZnbDrBmvXX0Y5ofgRdA3Z/view?usp=drive_link](https://drive.google.com/file/d/1H0VnkK1m11RZnbDrBmvXX0Y5ofgRdA3Z/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZBm8skZb2S6l1--t8GDoXaXgdl0rKD-d/view?usp=sharing](Download resume)
 
 - ⚡ Fun fact **I consider "console.log()" my best friend and confidant.**
 
