@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://sami.miralamin.info/)
 <h1 align="center">Hi 👋, I'm Kamrul Hasan Anik</h1>
-<h3 align="center">An enthusiastic frontend developer from Bangladesh</h3>
+<h3 align="center">An enthusiastic Full Stack developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
 - 👨‍💻 All of my projects are available at [https://kamrulhasananik01.web.app/](https://kamrulhasananik01.web.app/)
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kamrulhasananik019@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZBm8skZb2S6l1--t8GDoXaXgdl0rKD-d/view?usp=sharing](Download resume)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZBm8skZb2S6l1--t8GDoXaXgdl0rKD-d/view?usp=sharing] (Download resume)
 
 - ⚡ Fun fact **I consider "console.log()" my best friend and confidant.**
 
