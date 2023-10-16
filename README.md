@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kamrulhasananik01.web.app/](https://kamrulhasananik01.web.app/)
 
-- 💬 Ask me about **TypeScript, React, Express.js, MongoDB, Node.js and any JavaScript framework or library.
+- 💬 Ask me about **TypeScript, React, Express.js, MongoDB, Node.js and any JavaScript framework or library.**
 
 - 📫 How to reach me **kamrulhasananik019@gmail.com**
 
